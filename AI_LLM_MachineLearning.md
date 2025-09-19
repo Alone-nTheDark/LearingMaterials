@@ -56,6 +56,8 @@ This is a repository of training materials and interesting reads for everything 
 
 ## Agentic AI
 * Agentic Design Patterns Part 1 - https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/
+* How to Build an Agent - https://ampcode.com/how-to-build-an-agent
+* What is Agentic AI - https://k21academy.com/ai-ml/agentic-ai/what-is-agentic-ai/
 
 ## Tools
 
@@ -78,3 +80,4 @@ This is a repository of training materials and interesting reads for everything 
 ## Others
 
 * OpenAI Model specs - https://cdn.openai.com/spec/model-spec-2024-05-08.html
+
